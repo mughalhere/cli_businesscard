@@ -1,10 +1,10 @@
 {
-  "name": "mughalhere",
+  "name": "mughalheree",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "bin": {
-    "mughalhere": "./index.js"
+    "mughalheree": "./index.js"
   },
   "scripts": {
     "prepublish": "npm run build",

@@ -34,11 +34,11 @@ const data = {
     birthday: "10/01/1998",
     mobile: "+92 324 6151392",
     email: "mughalhere@icloud.com",
-    description1: "Passionate about" + chalk.bold(" entrepreneurship") + "," + chalk.bold(" creativity ") + "and" + chalk.bold(" digitality") + ",",
-    description2: "always optimist, nature and diversity lover, change-enthousiast,",
-    description3: "globe trotter,dedicated and motivated volunteer," + chalk.bold(" marketer ") + "(with",
-    description4: "Master!) single. I aimed at" + chalk.bold(" improving the world ") + "we are living by",
-    description5: "putting my skills at the service of projects that make sense.",
+    description1: "Looking for a" + chalk.bold(" React") + "," + chalk.bold(" React Native,") + chalk.bold(" Vue,") + chalk.bold(" Angular,") + chalk.bold(" ExpressJs,") + chalk.bold(" NodeJs,") + chalk.bold(" GraphQL") + " dev? I'm your guy!",
+    description2: "Do you have an idea you want to get off the ground? I can help you with the initial planning",
+    description3: "phases right through to completing development on your idea. Or perhaps you have an established",
+    description4: "product and need an extra pair of hands to help out? I've taken over and integrated myself into",
+    description5: "so many large codebases over the years - it's become second nature to me!",
     card: "npx mughalhere",
 };
 
